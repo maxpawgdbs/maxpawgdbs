@@ -9,9 +9,12 @@
 - Flask
 - Django
 - SQLite3
+- PyTorch
 - HTML, CSS, JS
 - C++
 - Golang
+- C#
+- Unity
 
 ## Достижения
 ### Был на сменах В Летней ИТ-Школе Белгородская область в 2023 и 2024 годах
