@@ -27,19 +27,19 @@
 
 ## Мои проекты
 ### System of Control Telegram Bot 
-#### Python, PyQt5, TeleBot, SQLite3, Threading
+Python, PyQt5, TeleBot, SQLite3, Threading
 ### Игра на Pygame
-#### Python, Pygame, PerlinNoise, json
+Python, Pygame, PerlinNoise, json
 ### Сайт с музыкой
-#### Python, Flask, json
+Python, Flask, json
 ### Проект на Django с курса Яндекс лицея
-#### Python, Django, SQLite
+Python, Django, SQLite
 ### KanHub
-#### Python, Django, SQLite
+Python, Django, SQLite
 ### Valley Of Future
-#### C#, Unity
+C#, Unity
 ### Golang Calculator
 ### Нейросеть на чистом Python
-#### Python, PyTorch
+Python, PyTorch
 
 Также разрабатываю игровой движок (на гитхабе пока нет)
