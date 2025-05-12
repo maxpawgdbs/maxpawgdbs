@@ -41,5 +41,9 @@ C#, Unity
 ### Golang Calculator
 ### Нейросеть на чистом Python
 Python, PyTorch
+### Жалкие попытки в 3д графику
+pseudo 3d on opengl c++
+3d on opengl c++
+
 
 Также разрабатываю игровой движок (на гитхабе пока нет)
