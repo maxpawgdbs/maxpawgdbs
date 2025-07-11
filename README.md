@@ -49,3 +49,4 @@ Python, PyTorch
 pseudo 3d on opengl c++
 3d on opengl c++
 ### Иногда пишу врайтапы на КТФки
+### Простенький сайт с куки на github pages
