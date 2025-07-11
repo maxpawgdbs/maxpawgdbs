@@ -3,6 +3,7 @@
 ### Учусь в 10 классе в Белгородской области. 
 ### Программирую с октября 2022
 ### [maxpawgdbs.ru](https://maxpawgdbs.ru)
+### [Codeforces](https://codeforces.com/profile/maxpawgdbs)
 ### Состою в CTF команде [Xorg-workship](https://ctftime.org/team/365955)
 ## Знаю следующие технологии:
 - Python
