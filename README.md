@@ -2,7 +2,7 @@
 ### Меня зовут Максим Тараненко
 ### Учусь в 10 классе в Белгородской области. 
 ### Программирую с октября 2022
-### [maxpawgdbs.ru](maxpawgdbs.ru)
+### [maxpawgdbs.ru](https://maxpawgdbs.ru)
 ### Состою в CTF команде [Xorg-workship](https://ctftime.org/team/365955)
 ## Знаю следующие технологии:
 - Python
