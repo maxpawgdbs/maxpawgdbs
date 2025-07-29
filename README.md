@@ -31,7 +31,7 @@
 ##### Номер сертификата 2487 196470 Тараненко
 ### [Проводили свою CTF в Летней ИТ Школе Белгородская область](https://vk.com/wall-73850005_18558)
 ### Выиграл много мерча от Яндекса: сумка, шопер, рюкзак, колонку и т.д.
-
+### Принимал участие в [BezumHack](https://github.com/nais2008/bezumhack)...
 ## Мои проекты
 ### [System of Control Telegram Bot](https://github.com/maxpawgdbs/SCTB)
 Python, PyQt5, TeleBot, SQLite3, Threading
