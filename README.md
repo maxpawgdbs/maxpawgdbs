@@ -5,7 +5,7 @@
 ### [maxpawgdbs.ru](https://maxpawgdbs.ru)
 ### [Codeforces](https://codeforces.com/profile/maxpawgdbs)
 ### Состою в CTF команде [Xorg-worship](https://ctftime.org/team/365955)
-## Знаю следующие технологии:
+## Знаком с следующиеми технологиями:
 - Python
 - PyQt5
 - Pygame
