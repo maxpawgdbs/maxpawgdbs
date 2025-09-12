@@ -1,7 +1,7 @@
 ## Github of MaxPawGDBS
 ### Меня зовут Максим Тараненко
 ### Учусь в 11 классе в Белгородской области. 
-### Программирую с октября 2022
+### В айти с октября 2022
 ### [maxpawgdbs.ru](https://maxpawgdbs.ru)
 ### [Codeforces](https://codeforces.com/profile/maxpawgdbs)
 ### Состою в CTF команде [Xorg-worship](https://ctftime.org/team/365955)
