@@ -33,6 +33,8 @@
 ### [Проводили свою CTF в Летней ИТ Школе Белгородская область](https://vk.com/wall-73850005_18558)
 ### Выиграл много мерча от Яндекса: сумка, шопер, рюкзак, колонку и т.д.
 ### Принимал участие в [BezumHack](https://github.com/nais2008/bezumhack)...
+### ТОП 5 НА [30.ctf.su](https://30.ctf.su)
+<img width="600" height="489" alt="image" src="https://github.com/user-attachments/assets/2294789f-689e-4790-9bf5-9ea0f8fd07e7" />
 ## Мои проекты
 ### [System of Control Telegram Bot](https://github.com/maxpawgdbs/SCTB)
 Python, PyQt5, TeleBot, SQLite3, Threading
@@ -51,8 +53,8 @@ golang, web
 ### [Нейросеть на чистом Python](https://github.com/maxpawgdbs/no-module-heural-network)
 Python, PyTorch
 ### Жалкие попытки в 3д графику
-[pseudo 3d on opengl c++](https://github.com/maxpawgdbs/pseudo-3d)
-[3d on opengl c++](https://github.com/maxpawgdbs/3d-opengl-0)
+## [pseudo 3d on opengl c++](https://github.com/maxpawgdbs/pseudo-3d)
+## [3d on opengl c++](https://github.com/maxpawgdbs/3d-opengl-0)
 ### [Чат-бот для анализа данных на основе LLM](https://github.com/maxpawgdbs/llm-it-school)
 python, web, yandex-gpt api
 ### [Иногда пишу врайтапы тасок с CTF](https://github.com/maxpawgdbs/write-ups)
