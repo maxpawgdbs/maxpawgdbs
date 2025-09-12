@@ -54,8 +54,8 @@ golang, web
 ### [Нейросеть на чистом Python](https://github.com/maxpawgdbs/no-module-heural-network)
 Python, PyTorch
 ### Жалкие попытки в 3д графику
-## [pseudo 3d on opengl c++](https://github.com/maxpawgdbs/pseudo-3d)
-## [3d on opengl c++](https://github.com/maxpawgdbs/3d-opengl-0)
+#### [pseudo 3d on opengl c++](https://github.com/maxpawgdbs/pseudo-3d)
+#### [3d on opengl c++](https://github.com/maxpawgdbs/3d-opengl-0)
 ### [Чат-бот для анализа данных на основе LLM](https://github.com/maxpawgdbs/llm-it-school)
 python, web, yandex-gpt api
 ### [Иногда пишу врайтапы тасок с CTF](https://github.com/maxpawgdbs/write-ups)
