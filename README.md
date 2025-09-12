@@ -34,7 +34,8 @@
 ### Выиграл много мерча от Яндекса: сумка, шопер, рюкзак, колонку и т.д.
 ### Принимал участие в [BezumHack](https://github.com/nais2008/bezumhack)...
 ### ТОП 5 НА [30.ctf.su](https://30.ctf.su)
-<img width="600" height="489" alt="image" src="https://github.com/user-attachments/assets/2294789f-689e-4790-9bf5-9ea0f8fd07e7" />
+<img width="300" height="244" alt="image" src="https://github.com/user-attachments/assets/2294789f-689e-4790-9bf5-9ea0f8fd07e7" />
+
 ## Мои проекты
 ### [System of Control Telegram Bot](https://github.com/maxpawgdbs/SCTB)
 Python, PyQt5, TeleBot, SQLite3, Threading
