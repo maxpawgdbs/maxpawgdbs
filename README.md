@@ -4,6 +4,7 @@ Links & projects
 ## Links
 - [Codeforces](https://codeforces.com/profile/rabotai-rodnenki-chatgbt)
 - [CTF Team](https://ctftime.org/team/365955)
+- [maxpawgdbs.ru](https://maxpawgdbs.ru/)
 
 ## My Projects
 - [System of Control Telegram Bot](https://github.com/maxpawgdbs/SCTB)
