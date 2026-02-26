@@ -1,5 +1,4 @@
-### [maxpawgdbs.ru](https://maxpawgdbs.ru)
-### [Codeforces](https://codeforces.com/profile/maxpawgdbs)
+### [Codeforces](https://codeforces.com/profile/rabotai-rodnenki-chatgbt)
 ### Состою в CTF команде [Xorg-worship](https://ctftime.org/team/365955)
 
 ## Достижения
