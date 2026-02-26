@@ -1,5 +1,5 @@
 ### [Codeforces](https://codeforces.com/profile/rabotai-rodnenki-chatgbt)
-### [CTFTime Team](https://ctftime.org/team/365955)
+### [CTF Team](https://ctftime.org/team/365955)
 
 ## My Projects
 ### [System of Control Telegram Bot](https://github.com/maxpawgdbs/SCTB)
