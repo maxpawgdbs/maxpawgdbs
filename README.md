@@ -5,7 +5,6 @@
 ### [System of Control Telegram Bot](https://github.com/maxpawgdbs/SCTB)
 ### [KanHub](https://github.com/maxpawgdbs/kanhub)
 ### [Valley Of Future](https://github.com/Remziz/Valley-of-Future)
-### [Golang Calculator](https://github.com/maxpawgdbs/yandex-go)
 ### [Neural Network in Pure Python](https://github.com/maxpawgdbs/no-module-heural-network)
 #### [Pseudo 3D on OpenGL (C++)](https://github.com/maxpawgdbs/pseudo-3d)
 #### [3D on OpenGL (C++)](https://github.com/maxpawgdbs/3d-opengl-0)
