@@ -1,19 +1,14 @@
 ### [Codeforces](https://codeforces.com/profile/rabotai-rodnenki-chatgbt)
-### Состою в CTF команде [Xorg-worship](https://ctftime.org/team/365955)
+### [CTFTime Team](https://ctftime.org/team/365955)
 
-## Достижения
-### ТОП 5 НА [30.ctf.su](https://30.ctf.su)
-<img width="300" height="244" alt="image" src="https://github.com/user-attachments/assets/2294789f-689e-4790-9bf5-9ea0f8fd07e7" />
-
-## Мои проекты
+## My Projects
 ### [System of Control Telegram Bot](https://github.com/maxpawgdbs/SCTB)
-Python, PyQt5, TeleBot, SQLite3, Threading
 ### [KanHub](https://github.com/maxpawgdbs/kanhub)
 ### [Valley Of Future](https://github.com/Remziz/Valley-of-Future)
 ### [Golang Calculator](https://github.com/maxpawgdbs/yandex-go)
-### [Нейросеть на чистом Python](https://github.com/maxpawgdbs/no-module-heural-network)
-#### [pseudo 3d on opengl c++](https://github.com/maxpawgdbs/pseudo-3d)
-#### [3d on opengl c++](https://github.com/maxpawgdbs/3d-opengl-0)
-### [Чат-бот для анализа данных на основе LLM](https://github.com/maxpawgdbs/llm-it-school)
-### [Браузерный агент на основе LLM и VLM](https://github.com/lyubovchubarova/SiriusAgentBrowser)
-### [Иногда пишу врайтапы тасок с CTF](https://github.com/maxpawgdbs/write-ups)
+### [Neural Network in Pure Python](https://github.com/maxpawgdbs/no-module-heural-network)
+#### [Pseudo 3D on OpenGL (C++)](https://github.com/maxpawgdbs/pseudo-3d)
+#### [3D on OpenGL (C++)](https://github.com/maxpawgdbs/3d-opengl-0)
+### [Chatbot for Data Analysis Based on an LLM](https://github.com/maxpawgdbs/llm-it-school)
+### [Browser Agent Based on an LLM and VLM](https://github.com/lyubovchubarova/SiriusAgentBrowser)
+### [Sometimes I Write CTF Challenge Write-ups](https://github.com/maxpawgdbs/write-ups)
