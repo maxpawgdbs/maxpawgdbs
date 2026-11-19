@@ -12,6 +12,8 @@
 
 ## Projects
 
+- [Lisp Dialect LISCRIPT](https://github.com/maxpawgdbs/liscript)
+- [PDP-11 emulator](https://maxpawgdbs/pdp11)
 - [System of Control Telegram Bot](https://github.com/maxpawgdbs/SCTB)
 - [KanHub](https://github.com/maxpawgdbs/kanhub)
 - [Valley Of Future](https://github.com/Remziz/Valley-of-Future)
@@ -38,3 +40,10 @@
 - Проводили свою [CTF](https://vk.com/wall-73850005_18558) в Летней ИТ-Школе Белгородской области
 - Принимал участие в [BezumHack](https://github.com/nais2008/bezumhack)
 - Топ-1 на [30.ctf.su](https://30.ctf.su)
+
+## Vibecode projects
+
+- [Lux Music Mobile App](https://github.com/maxpawgdbs/LuxMusic)
+- [Pig6Bot on Rust](https://github.com/maxpawgdbs/pig6rust)
+- [OskolCTF board](https://github.com/maxpawgdbs/oskolctf)
+- [Divergence Civilization game](https://github.com/maxpawgdbs/Divergence)
