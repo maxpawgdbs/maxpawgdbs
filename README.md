@@ -40,6 +40,7 @@
 - Проводили свою [CTF](https://vk.com/wall-73850005_18558) в Летней ИТ-Школе Белгородской области
 - Принимал участие в [BezumHack](https://github.com/nais2008/bezumhack)
 - Топ-1 на [30.ctf.su](https://30.ctf.su)
+- Стажировался в Execution BGD
 
 ## Vibecode projects
 
