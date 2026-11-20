@@ -12,7 +12,8 @@
 - [CTF Team](https://ctftime.org/team/365955)
 - [Website](https://maxpawgdbs.ru/)
 - [Telegram](https://t.me/maxpawgdbs)
-- [Telegram Channel](https://t.me/belgorod_ctf)
+- [CTF Telegram Channel](https://t.me/belgorod_ctf)
+- [Site](https://maxpawgdbs.ru)
 
 ## Projects
 
